@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.name{
+  font-family: 'Cormorant SC', serif;
+  position: absolute;
+  top: 30px;
+  left: 100px;
+}
+
+.logo{
+  width: 125px;
+
+}
+
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  display:flex;
+  justify-content: flex-end;
+}
+
+
+.button:hover {
+  background-color: #f1f1f1;
+}
