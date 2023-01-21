@@ -201,3 +201,33 @@ html, body {
   
 }
 
+.pic{
+  position: absolute;
+  top: 13%;
+  left: 20%; 
+  border-radius: 50%;
+  border:black 2px solid;
+}
+
+.about{
+  padding: 50px;
+  font-size: 30px;
+  width: 850px;
+  display: flex;
+  justify-content: center; 
+  font-family: 'Italiana', serif;
+  
+}
+
+.heading{
+  font-size: 35px;
+  font-family: 'Italiana', serif;
+}
+
+.resume{
+  font-family: 'Italiana', serif;
+  position: absolute; 
+  top: 35%; 
+  left: 47%;
+  font-size: 32px;
+}
